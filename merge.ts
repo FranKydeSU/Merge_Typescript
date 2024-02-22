@@ -25,4 +25,4 @@ const collection1 = [1, 3, 5, 6, 7, 8, 9, 10];
 const collection2 = [6, 4, 2, 1, 0];
 const collection3 = [7, 8, 9, 50, 24];
 
-console.log(merge(collection1, collection2, collection3))
+// console.log(merge(collection1, collection2, collection3))
